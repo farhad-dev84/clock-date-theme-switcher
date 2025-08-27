@@ -10,8 +10,8 @@ Digital clock with Gregorian and Jalali dates, dark/light theme toggle, and 12/2
 5. **12/24 Hour Format**: Switch between 12-hour and 24-hour time display.
 
 ## Screenshots
-![Light Theme](screenshots-themeLight.png)
-![Dark Theme](screenshots-themeDark.png)
+![Light Theme](screenshot-themeLight.png)
+![Dark Theme](screenshot-themeDark.png)
 
 ## Usage
 - Open `index.html` in a browser.
