@@ -11,7 +11,7 @@ Digital clock with Gregorian and Jalali dates, dark/light theme toggle, and 12/2
 
 ## Screenshots
 ![Light Theme](screenshot-themeLight.png)
-![Dark Theme](screenshot-themeDark.png)
+![Dark Theme](screenshot.themeDark.png)
 
 ## Usage
 - Open `index.html` in a browser.
